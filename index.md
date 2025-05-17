@@ -5,8 +5,11 @@ title: ""
 
 **Bio-ML Scientist** • [serovmari@gmail.com](mailto:serovmari@gmail.com) • [GitHub](https://github.com/mariaserov) • [LinkedIn](https://www.linkedin.com/in/maria-serova/)
 
-**👩🏻‍💻 Currently working on**: Leveraging Geometric Deep Learning to develop explainable AI tools helping us understand molecular mechanisms of diseases with major unadressed need
+
 **Executive Summary**: A research scientist and innovator with a unique blend of expertise at the intersection of AI, biology, and entrepreneurship. Combining academic rigour with industry efficiency to address key challenges to unlock ML to solve biology.
+
+
+**👩🏻‍💻 Currently working on**: Leveraging Geometric Deep Learning to develop explainable AI tools helping us understand molecular mechanisms of diseases with major unadressed need
 
 ## 💻 PROJECTS <br>
 
