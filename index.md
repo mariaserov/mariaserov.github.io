@@ -2,8 +2,6 @@
 layout: default
 ---
 
-**👩🏻‍💻 Currently working on**: Leveraging Geometric Deep Learning to develop explainable AI tools, helping us understand molecular mechanisms of diseases with major unadressed need.
-
 ## 💻 PROJECTS <br>
 
 🧬 **Deep Learning to Predict 3D Structure of RNA** **_(ongoing)_** <br>
