@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "minima"
 ---
 
 **Bio-ML Scientist** • [serovmari@gmail.com](mailto:serovmari@gmail.com) • [GitHub](https://github.com/mariaserov) • [LinkedIn](https://www.linkedin.com/in/maria-serova/)
@@ -75,7 +74,6 @@ _Master's Researcher (Sep 2020-Jun 2021)_ <br>
 - Gave up coffee for a year to be able to dissect fruit fly brains under a microscope. 
 - Uncovered novel insights into molecular links between immunity, ageing, and dementia by conducting bioinformatic and lab-based experiments.
 - Collaborated with interdisciplinary team of researchers and effectively synthesised complex scientific results into impactful narratives for a range of audiences - demonstrating strong collaboration, communication, and project management skills.
-
 <br>
 
 **Oxford University Innovation** <br>
