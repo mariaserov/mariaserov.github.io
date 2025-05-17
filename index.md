@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""
+title: "minima"
 ---
 
 **Bio-ML Scientist** • [serovmari@gmail.com](mailto:serovmari@gmail.com) • [GitHub](https://github.com/mariaserov) • [LinkedIn](https://www.linkedin.com/in/maria-serova/)
