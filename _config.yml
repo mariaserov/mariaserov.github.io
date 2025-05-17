@@ -7,5 +7,5 @@ description: >
 
 #theme: minimal     
 remote_theme: pages-themes/minimal@v0.2.0
-avatar: assets/images/avatar.jpg
+logo: assets/images/avatar.jpg
 
