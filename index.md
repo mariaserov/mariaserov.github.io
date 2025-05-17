@@ -11,12 +11,10 @@ title: "Maria Serova"
 
 ## EDUCATION
 
-| **Imperial College London**<br>
-  *Health Data Analytics and Machine Learning, MSc*<br>
-  • Modules: Machine Learning, Translational Data Science, Bayesian Inference, Statistical Data Analysis, Methods for Spatio-Temporal Data, Molecular Epidemiology<br>
-  • Thesis project (ongoing): Graph Neural Networks for Multi-Omic Profiling of Endometriosis | **London, United Kingdom**<br>
-  2024 (Current) |
-| :--- | ---:|
+
+| **Imperial College London**<br> *Health Data Analytics and Machine Learning, MSc*<br> • Modules: Machine Learning, Translational Data Science, Bayesian Inference, Statistical Data Analysis, Methods for Spatio-Temporal Data, Molecular Epidemiology<br> • Thesis project (ongoing): Graph Neural Networks for Multi-Omic Profiling of Endometriosis | **London, United Kingdom**<br> 2024 (Current) |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------: |
+
 
 
 
