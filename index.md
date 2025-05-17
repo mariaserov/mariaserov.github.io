@@ -1,15 +1,16 @@
 ---
 layout: default
 title: ""
+description: ""
 ---
 
 **Bio-ML Scientist** • [serovmari@gmail.com](mailto:serovmari@gmail.com) • [GitHub](https://github.com/mariaserov) • [LinkedIn](https://www.linkedin.com/in/maria-serova/)
 
 
-**Executive Summary**: A research scientist and innovator with a unique blend of expertise at the intersection of AI, biology, and entrepreneurship. Combining academic rigour with industry efficiency to address key challenges to unlock ML to solve biology.
+**Executive Summary**: A research scientist and innovator with a unique blend of expertise at the intersection of AI, biology, and entrepreneurship. Combining academic rigour with industry efficiency to unlock ML to solve biology.
 
 
-**👩🏻‍💻 Currently working on**: Leveraging Geometric Deep Learning to develop explainable AI tools helping us understand molecular mechanisms of diseases with major unadressed need
+**👩🏻‍💻 Currently working on**: Leveraging Geometric Deep Learning to develop explainable AI tools, helping us understand molecular mechanisms of diseases with major unadressed need.
 
 ## 💻 PROJECTS <br>
 
@@ -40,7 +41,7 @@ title: ""
 
 **Imperial College London** <br>
 _Health Data Analytics and Machine Learning, MSc (2024-current)_ <br>
-_Distinction (provisional mark: 76%, based on marks released so far)_ <br>
+_Distinction (provisional mark: 76%)_ <br>
 - _Modules_: Machine Learning, Translational Data Science, Bayesian Inference, Statistical Data Analysis, Methods for Spatio-Temporal Data, Computational Epidemiology, Molecular Epidemiology
 - _Thesis project (ongoing)_: Graph Neural Networks for Multi-Omic Profiling of Endometriosis
 
@@ -86,7 +87,7 @@ of the proposal by securing an Innovator Visa sponsorship offer.
 <br>
 
 ## 🎤 SPEAKER ENGAGEMENTS
-**Invited Speaker, (Oxford University Chemistry & Biochemistry Society, 2023)** <br>
+**Invited Speaker (Oxford University Chemistry & Biochemistry Society, 2023)** <br>
 Presented on The Role of Biophysics in AI-Driven Drug Discovery.
 <br>
 
