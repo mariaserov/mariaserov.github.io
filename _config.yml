@@ -4,8 +4,11 @@ description: >
   <a href="mailto:serovmari@gmail.com">serovmari@gmail.com</a><br>
   <a href="https://github.com/mariaserov">GitHub</a><br>
   <a href="https://www.linkedin.com/in/maria-serova/">LinkedIn</a>
+  <strong>Executive Summary:</strong> A research scientist and innovator with a unique blend 
+  of expertise at the intersection of AI, biology, and entrepreneurship. Combining academic rigour 
+  with industry efficiency to unlock ML to solve biology.
 
 #theme: minimal     
 remote_theme: pages-themes/minimal@v0.2.0
-logo: assets/images/avatar.jpg
+logo: assets/images/avatar.png
 
