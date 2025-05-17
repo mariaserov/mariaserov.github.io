@@ -1,7 +1,6 @@
 ---
 layout: default
 title: ""
-description: ""
 ---
 
 **Bio-ML Scientist** • [serovmari@gmail.com](mailto:serovmari@gmail.com) • [GitHub](https://github.com/mariaserov) • [LinkedIn](https://www.linkedin.com/in/maria-serova/)
@@ -14,12 +13,12 @@ description: ""
 
 ## 💻 PROJECTS <br>
 
-🧬 **Deep Learning to predict 3D structure of RNA** **_(ongoing)_** <br>
+🧬 **Deep Learning to Predict 3D Structure of RNA** **_(ongoing)_** <br>
 - Developing novel architectures by iterating on state-of-the-art methods to predict 3D structure of RNA molecules from their sequence.
 - Incorporating physio-chemical information and learnt evolutionary patterns into model architecture to improve prediction performance.
 
 
-🔍 **Unsupervised ML & Explainable AI to uncover complex disease mechanisms** <br>
+🔍 **Unsupervised ML & Explainable AI to Uncover Complex Disease Mechanisms** <br>
 - Pioneered an unsupervised Machine Learning approach to uncover molecular signatures of complex diseases and identify novel biomarkers for diagnostics and treatment. 
 - Conceptualised research plan and analytical pipeline, provided continuous technical and scientific guidance to the team.
 - Employed unsupervised ML methods to identify distinct molecular subtypes within hypertension cohort significantly associated with key cardiovascular outcomes. 
