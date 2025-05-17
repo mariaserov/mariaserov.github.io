@@ -4,6 +4,7 @@ description: >
   <a href="mailto:serovmari@gmail.com">serovmari@gmail.com</a><br>
   <a href="https://github.com/mariaserov">GitHub</a><br>
   <a href="https://www.linkedin.com/in/maria-serova/">LinkedIn</a>
-  
+
 #theme: minimal     
 remote_theme: pages-themes/minimal@v0.2.0
+avatar: avatar.jpeg
