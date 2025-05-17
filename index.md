@@ -11,21 +11,21 @@ layout: default
 - Incorporating physio-chemical information and learnt evolutionary patterns into model architecture to improve prediction performance.
 
 
-🔍 **Unsupervised ML & Explainable AI to Uncover Complex Disease Mechanisms** <br>
+🔍 **Unsupervised ML & Explainable AI for Complex Disease Mechanisms** <br>
 - Pioneered an unsupervised Machine Learning approach to uncover molecular signatures of complex diseases and identify novel biomarkers for diagnostics and treatment. 
 - Conceptualised research plan and analytical pipeline, provided continuous technical and scientific guidance to the team.
 - Employed unsupervised ML methods to identify distinct molecular subtypes within hypertension cohort significantly associated with key cardiovascular outcomes. 
 - Comprehensively characterised the high-risk subtypes using state-of-the-art computational methods (including Graph Neural Networks & Stability Selection LASSO), elucidating novel insights for drug discovery, diagnostics, and prevenatitve strategies.
 
 
-🤖 **Computer Vision for Breast Cancer Diagnosis from Histopathology Images** <br> 
-- Applied state-of-the-art CNN architectures ([ConvNeXT-V2](https://arxiv.org/abs/2301.00808), [DenseNET-121](https://arxiv.org/abs/1608.06993)) to breast cancer prediction task,  comparing performance with benchmark [ResNet](https://arxiv.org/abs/1512.03385).
+🤖 **Computer Vision for Breast Cancer Diagnosis** <br> 
+- Applied state-of-the-art CNN architectures ([ConvNeXT-V2](https://arxiv.org/abs/2301.00808), [DenseNET-121](https://arxiv.org/abs/1608.06993)) to breast cancer prediction task from histopathology images,  comparing performance with benchmark [ResNet](https://arxiv.org/abs/1512.03385).
 - Optimised model pipeline to achieve 95% accuracy for breast cancer prediction
 - Focused on clinical relevance by using explainable AI tools to extract the most predictive features → highlighting key features for diagnosis, and identifying novel features for oncological research. 
 
 
-🗺️ **Bayesian Spatio-Temporal Modelling of Crime Against Women in India** <br>
-- Developed hierarchical Bayesian models of spatio-temporal trends of crime, employing Integrated Nested Laplace Approximation for computational modelling. 
+🗺️ **Bayesian Spatio-Temporal Modelling of Crime Against Women** <br>
+- Developed hierarchical Bayesian models of spatio-temporal trends of crime against women in India, employing Integrated Nested Laplace Approximation for computational modelling. 
 - Identified anomalous spatio-temporal crime patterns to inform policy & district-level interventions.
 <br>
 
