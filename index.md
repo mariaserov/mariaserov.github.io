@@ -2,11 +2,6 @@
 layout: default
 ---
 
- **Bio-ML Scientist** • [serovmari@gmail.com](mailto:serovmari@gmail.com) • [GitHub](https://github.com/mariaserov) • [LinkedIn](https://www.linkedin.com/in/maria-serova/)
-
-**Executive Summary**: A research scientist and innovator with a unique blend of expertise at the intersection of AI, biology, and entrepreneurship. Combining academic rigour with industry efficiency to unlock ML to solve biology.
-
-
 **👩🏻‍💻 Currently working on**: Leveraging Geometric Deep Learning to develop explainable AI tools, helping us understand molecular mechanisms of diseases with major unadressed need.
 
 ## 💻 PROJECTS <br>
