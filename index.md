@@ -50,8 +50,8 @@ _Biophysical Research Scientist II (Mar 2024 - Jul 2024)_ <br>
 _Biophysical Research Scientist I (Aug 2021 - Mar 2024)_ <br>
 - Designed & executed research plans, carried out biophysical experiments, and integrated results within AI platform to support model development & drug optimisaiton.
 - Translated complex datasets into pivotal insights that shaped decision-making throughout project lifecycle, notably contributing to development of two drugs currently in clinical trials.
-- Delivered two Python-based end-to-end software engineering projects for automating experimental workflows, successfully deploying them into internal digital ecosystems, enhancing reproducibility and efficiency.
-• Collaborated with interdisciplinary teams to bridge experimental biochemistry with ML & automation.
+- Delivered two Python-based software engineering projects for automating experimental workflows, successfully deploying them within internal digital ecosystems, enhancing reproducibility and efficiency.
+- Collaborated with interdisciplinary teams to bridge experimental biochemistry with ML & automation.
  <br>
 
 **Oxford Artificial Intelligence Society** <br>

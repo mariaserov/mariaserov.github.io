@@ -13,9 +13,7 @@ description: >
   <strong>Oxford University</strong> (Biochemistry)
   <strong>Imperial College London</strong> (Machine Learning)
   <br> <br>
-  👩🏻‍💻 <strong>Currently working on:</strong> Leveraging Geometric Deep Learning to develop explainable AI 
-  tools, helping us understand molecular mechanisms of diseases with major unadressed need (as a Postgraduate
-  Researcher at Imperial).
+
 
 #theme: minimal     
 remote_theme: pages-themes/minimal@v0.2.0
