@@ -1,1 +1,1 @@
-To view Resume: [mariaserov.github.io](mariaserov.github.io)
+To view the Resume: [mariaserov.github.io](https://mariaserov.github.io/)
